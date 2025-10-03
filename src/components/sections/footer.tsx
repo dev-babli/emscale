@@ -5,7 +5,7 @@ import { Instagram } from "lucide-react";
 const socialLinks = [
   {
     name: "Github",
-    href: "https://github.com/FissionAI/FloTorch",
+    href: "#",
     iconSrc:
       "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/87d4ecdb-c999-4235-93f5-d21de5f44f4d-flotorch-ai/assets/svgs/685e607c89edd47fae91fe96_67d11fd6887866bccbe72205_Vector-7.svg?",
     IconComponent: null,
@@ -85,7 +85,7 @@ const Footer = () => {
               className="relative z-10 hover:brightness-110 transition duration-300 block mb-4"
             >
               <Image
-                src="/images/emscale_logo.png"
+                src="/Images/emscale_logo.png"
                 alt="EMSCALE Logo"
                 width={160}
                 height={50}
@@ -100,11 +100,11 @@ const Footer = () => {
               organizations to innovate faster, make data-driven decisions, and
               deliver exceptional value to their customers.Born from the
               expertise and vision of Fission Labs, a global leader in custom
-              software development and innovation, FloTorch brings together a
+              software development and innovation, EMSCALE brings together a
               wealth of experience in building scalable, high-performance
               technology solutions. Over the last 15 years, Fission Labs has
               worked with diverse clients to deliver transformative results
-              across diverse industries. FloTorch continues this legacy by
+              across diverse industries. EMSCALE continues this legacy by
               focusing on the forefront of AI and machine learning advancements.
             </p>
             <div className="mt-8">

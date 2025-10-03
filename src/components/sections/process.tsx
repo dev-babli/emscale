@@ -16,7 +16,7 @@ const processSteps = [
       "Every system is mapped for clarity.",
       "We identify bottlenecks and areas where AI can add the most value.",
     ],
-    imageSrc: "/images/process1.jpg",
+    imageSrc: "/Images/process1.jpg",
   },
   {
     value: "step-2",
@@ -28,7 +28,7 @@ const processSteps = [
       "Our team builds, tests, and deploys smart systems that integrate into your operations seamlessly.",
       "We provide training and documentation for your teams to ensure smooth adoption.",
     ],
-    imageSrc: "/images/process2.jpg",
+    imageSrc: "/Images/process2.jpg",
   },
   {
     value: "step-3",
@@ -40,7 +40,7 @@ const processSteps = [
       "Ensuring they deliver continuous value and adapt to your evolving needs.",
       "We recommend improvements based on real-time analytics and feedback.",
     ],
-    imageSrc: "/images/process3.jpg",
+    imageSrc: "/Images/process3.jpg",
   },
 ];
 
@@ -66,7 +66,7 @@ export default function ProcessSection() {
     <section
       id="process"
       className="relative py-18 border-t border-border bg-cover bg-center"
-      style={{ backgroundImage: "url('/images/process.jpg')" }}
+      style={{ backgroundImage: "url('/Images/process.jpg')" }}
     >
       <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_center,_rgba(59,130,246,0.1),_transparent_25%)] -z-0"></div>
       <div className="absolute inset-0 bg-dot-pattern-dark opacity-10"></div>

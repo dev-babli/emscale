@@ -119,7 +119,7 @@ const Navigation = () => {
           className="relative z-10 shrink-0 hover:brightness-110 transition duration-300"
         >
           <Image
-            src="/images/emscale_logo.png"
+            src="/Images/emscale_logo.png"
             alt="EMSCALE Logo"
             width={160}
             height={50}
@@ -193,7 +193,7 @@ const Navigation = () => {
 
         <div className="hidden md:flex items-center gap-4">
           <Link
-            href="https://github.com/FissionAI/FloTorch"
+            href="#"
             className="nav-link flex items-center gap-2 text-base font-normal text-primary-text transition-opacity hover:opacity-80"
           >
             <Image
@@ -292,7 +292,7 @@ const Navigation = () => {
           </Accordion>
           <div className="mt-6 flex flex-col space-y-4">
             <Link
-              href="https://github.com/FissionAI/FloTorch"
+              href="#"
               className="nav-link flex items-center gap-2 text-primary-text"
               onClick={toggleMenu}
             >

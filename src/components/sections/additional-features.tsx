@@ -46,7 +46,7 @@ const features: FeatureCardProps[] = [
     icon: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/87d4ecdb-c999-4235-93f5-d21de5f44f4d-flotorch-ai/assets/icons/682bdd5b6e567298d31ae186_Group%201437257148-11.png?",
     title: "Nocode Workflow Management",
     description:
-      "FloTorch enables seamless, No Code management allowing effortless switching between multiple databases and models for optimal performance.",
+      "EMSCALE enables seamless, No Code management allowing effortless switching between multiple databases and models for optimal performance.",
     href: "/nocode-workflow-management",
   },
   {

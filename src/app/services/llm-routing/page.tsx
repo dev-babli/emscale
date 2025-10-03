@@ -44,7 +44,7 @@ export default function LLMRoutingPage() {
         <h1 className="text-5xl font-bold mb-4">LLM Routing</h1>
         <p className="text-lg text-gray-300 mb-8">
           Call any LLM via a single endpoint with reliability and efficiency.
-          FloTorch’s LLM Routing ensures seamless integration and optimized
+          EMSCALE's LLM Routing ensures seamless integration and optimized
           performance across multiple models.
         </p>
         <div className="flex justify-center gap-4">
@@ -134,7 +134,7 @@ export default function LLMRoutingPage() {
       >
         <h2 className="text-3xl font-bold mb-4">Ready to streamline your LLM calls?</h2>
         <p className="text-gray-400 mb-6">
-          Start using FloTorch LLM Routing today and enjoy seamless integration, lower latency, and better performance.
+          Start using EMSCALE LLM Routing today and enjoy seamless integration, lower latency, and better performance.
         </p>
         <motion.button
           whileHover={{ scale: 1.05 }}
